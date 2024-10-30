@@ -1,0 +1,9 @@
+__pycache__
+.venv
+.nicegui
+*.bat
+test.py
+build.json
+output
+.env
+environment.yml
